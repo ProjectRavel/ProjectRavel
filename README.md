@@ -1,6 +1,6 @@
-<[![MasterHead](https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif
+[![MasterHead](https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif
 )](https://rishavchanda.io
-)>
+)
 <h1 align="center">Hello Everyone🙌, you can call me Ravel</h1>
 <h3 align="center">A passionate Full Stack Developer i hope.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
