@@ -1,6 +1,7 @@
 <h1 align="center">Hello Everyone🙌, you can call me Ravel</h1>
 <h3 align="center">A passionate Full Stack Developer i hope.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 - 🔭 I’m currently working on **Pelajar SMK Wira Buana**
 
 - 🌱 I’m currently learning **JavaScript**
