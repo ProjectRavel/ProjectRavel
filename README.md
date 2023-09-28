@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif">
+<img align="center" alt="Coding" width ="1200" src="https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif">
 <h1 align="center">Hello Everyone🙌, you can call me Ravel</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
