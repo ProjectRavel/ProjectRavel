@@ -30,5 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=projectravel&show_icons=true&theme=dark&locale=en&layout=compact" alt="projectravel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=projectravel&theme=dark" alt="projectravel" /></p>
-<img src="https://raw.githubusercontent.com/ProjectRavel/ProjectRavel/output/snake.svg" alt="Snake animation" />
 <img align="center" alt="Coding" width ="1200" src="https://media.tenor.com/M8myaSCbCFAAAAAd/pc-typing.gif">
