@@ -15,7 +15,7 @@
 - 📫 How to reach me **rafaelcodeid@gmail.com**
 
 - ⚡ Fun fact **I think i really addicted to code**
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/M8myaSCbCFAAAAAd/pc-typing.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22536672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22536672" height="30" width="40" /></a>
@@ -30,3 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=projectravel&show_icons=true&theme=dark&locale=en&layout=compact" alt="projectravel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=projectravel&theme=dark" alt="projectravel" /></p>
+<img align="right" alt="Coding" width="full" src="https://media.tenor.com/M8myaSCbCFAAAAAd/pc-typing.gif">
