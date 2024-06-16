@@ -6,15 +6,15 @@
 
 
 
-- 🔭 I’m currently working on **Pelajar SMK Wira Buana**
+- 🔭 I’m currently studying on **Pelajar SMK Wira Buana**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Bootstrap, Tailwind, Js**
+- 💬 Ask me about **Web Programming!*
 
-- 📫 How to reach me **rafaelcodeid@gmail.com**
+- 📫 **rafaelcodeid@gmail.com**
 
-- ⚡ Fun fact **I think i really addicted to code**
+- ⚡ **I think i really addicted to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
