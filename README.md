@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently studying on **Pelajar SMK Wira Buana**
+- 🔭 I’m currently studying on **SMK Wira Buana**
 
 - 🌱 I’m currently learning **ReactJS**
 
