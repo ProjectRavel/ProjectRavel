@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Web Programming!*
+- 💬 Ask me about **Web Programming!**
 
 - 📫 **rafaelcodeid@gmail.com**
 
