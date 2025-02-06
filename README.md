@@ -1,57 +1,21 @@
-![Header](https://media.tenor.com/NbzuesZ98n4AAAAC/banner-discord.gif)
+# 💫 About Me:
+📌 About Me<br>Hello! My name is Ravel, and I’m a passionate Full Stack Developer currently studying at SMK Wira Buana. I have a deep interest in web development, particularly in building scalable and efficient applications.<br><br>💻 I specialize in Laravel, React, PHP, and Tailwind CSS to create dynamic and user-friendly web applications.<br>🚀 I’m always eager to learn new technologies and stay updated with the latest trends in web development.<br>🎯 My goal is to become a highly skilled full-stack developer and contribute to impactful projects.<br>📬 Feel free to reach out to me at rafaelsumanti01@gmail.com.
 
-<h1 align="center">Hello Everyone 🙌, you can call me Ravel</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=projectravel&label=Profile%20views&color=01aeb5&style=flat-square" alt="Profile Views" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gQhb9Z9p) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artificialvels) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelsumanti01@gmail.com) 
 
-### 📌 About Me
-<p align="center">
-- 🔭 I’m currently studying at **SMK Wira Buana**<br>
-- 🌱 I’m currently learning **Laravel**<br>
-- 📫 Reach me at **rafaelcodeid@gmail.com**<br>
-- ⚡ Fun fact: **I think I'm really addicted to code**
-</p>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProjectRavel&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ProjectRavel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectRavel&theme=dark&layout=compact" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectRavel&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌱 GitHub Contributions
-<p align="center">
-  <img src="https://github.com/ProjectRavel/ProjectRavel/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
-</p>
-
----
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://stackoverflow.com/users/22536672" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://instagram.com/rulvyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/ravelpandski" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://discord.gg/tbae83Rr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
-
----
-
-![Footer](https://media.tenor.com/M8myaSCbCFAAAAAd/pc-typing.gif)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
