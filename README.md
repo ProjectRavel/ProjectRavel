@@ -1,4 +1,3 @@
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5jcjAxN2kzaWRudmpmcG02MG9hN3d0eGVpYjVxdXI3ZTJ1dXFxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
 # 💫 About Me:
 📌 About Me<br>Hello! My name is Ravel, and I’m a passionate Full Stack Developer currently studying at SMK Wira Buana. I have a deep interest in web development, particularly in building scalable and efficient applications.<br><br>💻 I specialize in Laravel, React, PHP, and Tailwind CSS to create dynamic and user-friendly web applications.<br>🚀 I’m always eager to learn new technologies and stay updated with the latest trends in web development.<br>🎯 My goal is to become a highly skilled full-stack developer and contribute to impactful projects.<br>📬 Feel free to reach out to me at rafaelsumanti01@gmail.com.
 
