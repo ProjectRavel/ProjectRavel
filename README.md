@@ -1,6 +1,14 @@
 # 💫 About Me:
 📌 About Me<br>Hello! My name is Ravel, and I’m a passionate Full Stack Developer currently studying at SMK Wira Buana. I have a deep interest in web development, particularly in building scalable and efficient applications.<br><br>💻 I specialize in Laravel, React, PHP, and Tailwind CSS to create dynamic and user-friendly web applications.<br>🚀 I’m always eager to learn new technologies and stay updated with the latest trends in web development.<br>🎯 My goal is to become a highly skilled full-stack developer and contribute to impactful projects.<br>📬 Feel free to reach out to me at rafaelsumanti01@gmail.com.
 
+```javascript
+const ravels = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, C++, C#],
+  tools: [React, Laravel, Vue],
+  goals: [FullStackDeveloper, SoftwareEngineer]
+}
+```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gQhb9Z9p) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artificialvels) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelsumanti01@gmail.com) 
