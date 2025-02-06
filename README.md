@@ -19,7 +19,7 @@ const ravels = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProjectRavel&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img width="49%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ## 🏆 GitHub Trophies
