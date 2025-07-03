@@ -1,11 +1,11 @@
 # 💫 About Me:
-📌 About Me<br>Hello! My name is Ravel, and I’m a passionate Full Stack Developer currently studying at SMK Wira Buana. I have a deep interest in web development, particularly in building scalable and efficient applications.<br><br>💻 I specialize in Laravel, React, PHP, and Tailwind CSS to create dynamic and user-friendly web applications.<br>🚀 I’m always eager to learn new technologies and stay updated with the latest trends in web development.<br>🎯 My goal is to become a highly skilled full-stack developer and contribute to impactful projects.<br>📬 Feel free to reach out to me at rafaelsumanti01@gmail.com.
+📌 About Me<br>Hello! My name is Ravel, and I’m a passionate Full Stack Developer currently studying at SMK Wira Buana. I have a deep interest in web development, particularly in building scalable and efficient applications.<br><br>💻 I specialize in Laravel, NextJS, React, PHP, and Tailwind CSS to create dynamic and user-friendly web applications.<br>🚀 I’m always eager to learn new technologies and stay updated with the latest trends in web development.<br>🎯 My goal is to become a highly skilled full-stack developer and contribute to impactful projects.<br>📬 Feel free to reach out to me at rafaelsumanti01@gmail.com.
 
 ```javascript
 const ravels = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, C++, C#],
-  tools: [React, Laravel, Vue],
+  code: [Javascript, Typescript, Python, C++, C#],
+  tools: [React, Laravel, NextJS],
   goals: [FullStackDeveloper, SoftwareEngineer]
 }
 ```
