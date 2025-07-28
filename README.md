@@ -1,62 +1,130 @@
-# 💫 About Me:
-📌 About Me<br>Hello! My name is Ravel, and I’m a passionate Full Stack Developer currently studying at SMK Wira Buana. I have a deep interest in web development, particularly in building scalable and efficient applications.<br><br>💻 I specialize in Laravel, NextJS, React, PHP, and Tailwind CSS to create dynamic and user-friendly web applications.<br>🚀 I’m always eager to learn new technologies and stay updated with the latest trends in web development.<br>🎯 My goal is to become a highly skilled full-stack developer and contribute to impactful projects.<br>📬 Feel free to reach out to me at rafaelsumanti01@gmail.com.
+# <div align="center">👋 Hello World, I'm **Ravel**</div>
 
-```javascript
-const ravels = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, Python, C++, C#],
-  tools: [React, Laravel, NextJS],
-  goals: [FullStackDeveloper, SoftwareEngineer]
-}
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+NextJS+%7C+React+Expert;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 **Student at SMK Wira Buana** - Passionate about creating digital solutions  
+💼 **Full Stack Developer** - Specialized in modern web technologies  
+🌱 **Always Learning** - Staying ahead with the latest tech trends  
+🎯 **Mission** - To build impactful applications that solve real problems  
+📍 **Based in** - Indonesia 🇮🇩  
+
+```typescript
+const developer = {
+  name: "Ravel",
+  role: "Full Stack Developer",
+  location: "Indonesia",
+  languages: ["JavaScript", "TypeScript", "Python", "PHP", "C++", "C#"],
+  frameworks: ["Laravel", "React", "NextJS", "Node.js"],
+  databases: ["MySQL", "MongoDB"],
+  tools: ["Docker", "Git", "VS Code"],
+  currentFocus: "Building scalable web applications",
+  lifePhilosophy: "Code is poetry written in logic"
+};
 ```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gQhb9Z9p) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artificialvels) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelsumanti01@gmail.com) 
+---
 
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
-# 📊 GitHub Stats:
-<p align="center">
-<img width="49%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProjectRavel&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **Tech Arsenal**
+
+<div align="center">
+
+### 🚀 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ProjectRavel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ⚡ **Backend Development** 
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,cpp,cs" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🗄️ **Database & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,vscode,arduino,blender" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Rocket" width="40" /> **Current Projects & Focus**
+
+<div align="center">
+
+| 🔥 **Focus Area** | 🛠️ **Technologies** | 📈 **Status** |
+|:---:|:---:|:---:|
+| **Web Applications** | Laravel + React | 🚀 Active |
+| **Mobile Development** | React Native | 📚 Learning |
+| **DevOps** | Docker + CI/CD | 🔧 Exploring |
+| **AI Integration** | Python + APIs | 💡 Researching |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c8f61b2c-ae0b-4eb1-b8e6-5ab4b8fcfb8e.png" alt="Stats" width="40" /> **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProjectRavel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProjectRavel&theme=tokyonight&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectRavel&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Trophy" width="40" /> **Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ProjectRavel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> **Let's Connect!**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gQhb9Z9p)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/artificialvels)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsumanti01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 **Daily Inspiration**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 🐍 **Contribution Snake**
+
+<img src="https://github.com/ProjectRavel/ProjectRavel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**✨ "Turning coffee into code, one commit at a time" ✨**
+
+<img src="https://komarev.com/ghpvc/?username=ProjectRavel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
