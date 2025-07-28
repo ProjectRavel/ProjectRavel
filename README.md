@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello World, I'm **Ravel**</div>
+# <div align="center">Helloww, I'm **Ravel**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+NextJS+%7C+React+Expert;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
@@ -87,8 +87,6 @@ const developer = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Trophy" width="40" /> **Achievements**
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ProjectRavel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
@@ -114,10 +112,6 @@ const developer = {
 ### 💭 **Daily Inspiration**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-### 🐍 **Contribution Snake**
-
-<img src="https://github.com/ProjectRavel/ProjectRavel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
