@@ -1,7 +1,7 @@
 # <div align="center">Helloww, I'm **Ravel**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+NextJS+%7C+React+Expert;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+NextJS+%7C+React;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -74,15 +74,11 @@ const developer = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c8f61b2c-ae0b-4eb1-b8e6-5ab4b8fcfb8e.png" alt="Stats" width="40" /> **GitHub Analytics**
+##**GitHub Analytics**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProjectRavel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProjectRavel&theme=tokyonight&layout=compact"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectRavel&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
