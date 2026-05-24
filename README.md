@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://i.ibb.co/Kzc7jV1s/Whats-App-Image-2026-05-15-at-8-07-36-PM.jpg" width="600">
 </div>
 
 ---
