@@ -3,11 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+NextJS+%7C+React;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://i.ibb.co/Kzc7jV1s/Whats-App-Image-2026-05-15-at-8-07-36-PM.jpg" width="600">
-</div>
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> **About Me**
